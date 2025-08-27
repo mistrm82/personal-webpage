@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : " "
+title                    : "Meeta Mistry Ph.D. "
 title_separator          : "-"
-name                     : &name "Meeta Mistry, Ph.D."
+name                     : &name "Meeta Mistry"
 description              : &description "A summary of my professional life"
 url                      : "https://mistrm82.github.io/personal-webpage/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,37 +23,28 @@ repository               : "mistrm82.github.io/personal-webpage"
 author:
   # Biographic information
   avatar           : "meeta_headshot_update.png"
-  name             : "Meeta Mistry, Ph.D."
+  name             : "Leadership | Strategy | Senior Bionformatician"
   pronouns         : "she/her"  
-  bio              : "Leadership | Strategy | Building a community of practice in Bioinformatics"
+  bio              : "Building a community of practice in Bioinformatics"
   location         : "Raleigh, NC"
   employer         : "Harvard Chan Bioinformatics Core (former)"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://bioinformatics.sph.harvard.edu/"
+  email            : "meeta.mistry@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IBDCYGMAAAAJ&pagesize=80&view_op=list_works"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=meeta%20mistry"
+
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
+  github           : "mistrm82"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +53,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "meeta-mistry"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
