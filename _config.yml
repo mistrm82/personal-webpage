@@ -355,3 +355,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Building
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
