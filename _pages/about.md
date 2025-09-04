@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my website which will give you som insight into me!
 
+With more than a decade of experience in bioinformatics and NGS data analysis, I thrive at the intersection of computational innovation and collaborative research. I am inspired by the challenges in decoding gene regulation and translating this understanding into actionable insights, especially in the realms of single-cell and spatial transcriptomics.
 
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am also deeply committed to elevating the scientific community’s capacity for computational analysis, whether that means guiding researchers through new tools or building training programs and workshops from the ground up. Striking a balance between rigorous science and supportive education is what motivates me every day.
+
